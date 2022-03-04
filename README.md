@@ -1,5 +1,5 @@
-# WhatsApp Garage Standalone
-## Release
+# WhatsApp Garage
+## Standalone Edition
 ![alt text](https://github.com/devstrooptechnologies/WhatsAppGarageStandaloneRelease/blob/main/banner-1.png?raw=true)
 
 
