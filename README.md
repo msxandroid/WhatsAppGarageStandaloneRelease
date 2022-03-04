@@ -1,1 +1,2 @@
-# WhatsAppGarageStandaloneRelease
+# WhatsApp Garage Standalone
+## Release
